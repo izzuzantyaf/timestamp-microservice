@@ -1,0 +1,14 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "My freeCodeCamp project submisson",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Izzu Zantya Fawwas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
